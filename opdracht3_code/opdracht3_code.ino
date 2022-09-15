@@ -101,3 +101,6 @@ if(potMeasure < 75){
      digitalWrite(ledPin7,HIGH);
 }
 }
+
+//bronnen
+//ik heb hulp gehad van Jakub met het opstellen van de code 
