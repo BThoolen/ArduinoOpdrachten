@@ -36,3 +36,5 @@ void loop() {
     digitalWrite(thisPin, LOW);
   }
 }
+//bronnen
+//https://docs.arduino.cc/built-in-examples/control-structures/ForLoopIteration
